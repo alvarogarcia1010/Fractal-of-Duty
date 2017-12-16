@@ -1,0 +1,31 @@
+Fractal of Duty V1.0
+Para hacer uso de este juego, por favor siga las instrucciones siguientes:
+
+NOTA IMPORTANTE:
+	INICIALIZAR VENTANAINICIAL.PY Y CORRER A PARTIR DE ESTA
+
+1.	Abra el juego, inmediatamente observara una ventana donde podrá ingresar su nombre de usuario, y cambiar las configuraciones que se deseen para jugar.
+
+
+2.	Hay diferentes tiempos y cantidad de burbujas para cada nivel de dificultad existente, se podrá elegir entre:
+
+	Fácil: 7 burbujas y 15 segundos
+	Difícil: 15 burbujas y 25 segundos
+	Maestro: 25 burbujas y 40 segundos
+	
+	Así como también se debe de elegir 1 entre los 3 diferentes tipos de fractales.
+
+
+3.	Luego de presionar el botón “Jugar” aparecerá el espacio de juego, para comenzar solamente se tiene que dar click en cualquier parte del espacio 
+	y las pelotas aparecerán asi como también el tiempo empezara a correr. Una vez inicie el juego el objetivo es capturar todas las burbujas antes de que se acabe el tiempo.
+
+4.	Parta mover el fractal solamente se necesita hacer click a cualquier lado disponible de este, es decir hacia el lado que sea más conveniente moverse para acercarse cada vez más a las burbujas.
+
+
+5.	Para capturar las burbujas solamente se necesita colocar el fractal sobre ellas, una vez hecho esto la burbuja tocada desaparecerá y se agrega al puntaje.
+
+
+6.	Cuando el tiempo haya finalizado se mostrará la ventana final con el puntaje obtenido y la cantidad de tiempo utilizado para obtener dicho puntaje
+
+
+7.	En la ventana final se mostrarán 2 opciones, una será para salir del juego, y la otra será para mostrar los puntajes más altos.
